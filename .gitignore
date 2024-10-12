@@ -400,3 +400,5 @@ FodyWeavers.xsd
 # Binary archives
 *.tgz
 *.zip
+python/samples/output/*
+python/samples/rtclient-0.4.4-py3-none-any.whl
